@@ -1,0 +1,91 @@
+/* body {
+    margin:0;
+    width: 100%;
+}
+.container {
+    width: 100%;
+    white-space: nowrap;
+} */
+
+div.Select--multi .Select-value {
+	color: black;
+}
+
+.js-plotly-plot .plotly .modebar {
+	padding-top: 22px;
+	margin-right: 10px;
+}
+
+.map-no-padding {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+/*.card-header {
+    height: 43%;
+}*/
+
+.card-header-custom{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-header-custom2{
+    height: 50px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.rata-tengah {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rata-kanan {
+    display: block;
+    text-align: right;
+}
+
+card-body-custom {
+    max-height: 80px;
+}
+
+.dash-graph-custom {
+    padding: 0px;
+}
+
+.card-custom {
+    margin-top: 15px;
+}
+
+p{
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.card-body-custom {
+    height: 100px;
+}
+
+.card-header-ketzil {
+    height: 30px;
+    padding: 0.25rem;
+}
+
+.card-body-ketzil {
+    padding: 0.25rem;
+    height: 50px;
+}
+
+.scroll_table {
+  /* height:100%;
+  width:100%; */
+  overflow-y: scroll;
+  overflow-x: scroll;
+}
